@@ -1,0 +1,16 @@
+SMAP
+table_002dresult_jsp.java
+JSP
+*S JSP
+*F
++ 0 table-result.jsp
+table-result.jsp
++ 1 top_nav.jspf
+WEB-INF/top_nav.jspf
+*L
+1,21:49
+1#1,49:70
+21#0,75:118
+96:193,3
+97,15:196
+*E
